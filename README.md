@@ -40,3 +40,11 @@ Copyright (c) 2015, Andreas Marek and [Contributors](https://github.com/graphql-
 
 [graphql-js License](https://github.com/graphql/graphql-js/blob/master/LICENSE)
 
+[![0](https://sourcerer.io/fame/sergey48k/graphql-java/graphql-java/images/0)](https://sourcerer.io/fame/sergey48k/graphql-java/graphql-java/links/0)
+[![1](https://sourcerer.io/fame/sergey48k/graphql-java/graphql-java/images/1)](https://sourcerer.io/fame/sergey48k/graphql-java/graphql-java/links/1)
+[![2](https://sourcerer.io/fame/sergey48k/graphql-java/graphql-java/images/2)](https://sourcerer.io/fame/sergey48k/graphql-java/graphql-java/links/2)
+[![3](https://sourcerer.io/fame/sergey48k/graphql-java/graphql-java/images/3)](https://sourcerer.io/fame/sergey48k/graphql-java/graphql-java/links/3)
+[![4](https://sourcerer.io/fame/sergey48k/graphql-java/graphql-java/images/4)](https://sourcerer.io/fame/sergey48k/graphql-java/graphql-java/links/4)
+[![5](https://sourcerer.io/fame/sergey48k/graphql-java/graphql-java/images/5)](https://sourcerer.io/fame/sergey48k/graphql-java/graphql-java/links/5)
+[![6](https://sourcerer.io/fame/sergey48k/graphql-java/graphql-java/images/6)](https://sourcerer.io/fame/sergey48k/graphql-java/graphql-java/links/6)
+[![7](https://sourcerer.io/fame/sergey48k/graphql-java/graphql-java/images/7)](https://sourcerer.io/fame/sergey48k/graphql-java/graphql-java/links/7)
